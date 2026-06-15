@@ -20,8 +20,8 @@ Se você é um avaliador ou recrutador, este guia foi escrito especialmente para
 ---
 
 ## 🔗 Links Úteis
-* **Repositório GitHub:** [https://github.com/LuizFMoreira/Sistema-de-Gestao-de-Usuarios](https://github.com/LuizFMoreira/Sistema-de-Gestao-de-Usuarios/tree/main)
-* **LinkedIn do Desenvolvedor:** [Luiz Fernando Batista Moreira](https://www.linkedin.com/in/luiz-fernando-batista-moreira-987834218/)
+* **Repositório GitHub:** [Sistema-de-Gestao-de-Usuarios](https://github.com/joaovictorz10/gestaousu-rios/tree/main)
+* **LinkedIn do Desenvolvedor:** [João Victor](https://www.linkedin.com/in/joaovictor-russo/)
 
 ---
 
