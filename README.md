@@ -161,4 +161,4 @@ Plaintext
 2026-03-17 12:00:03.100  INFO 12345 --- [main] c.l.gestaousuarios.Application         : Started Application in 3.5 seconds
 ```
 ✍️ Autores
-Luiz Fernando Batista Moreira - Desenvolvimento Full-Stack - GitHub
+João Victor Russo Marquito - Desenvolvimento Full-Stack - GitHub
